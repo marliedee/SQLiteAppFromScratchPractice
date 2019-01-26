@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteAppFromScratch</string>
+    <string name="welcome">Welcome!</string>
+    <string name="notes">Notes</string>
+    <string name="display">Display</string>
+    <string name="save_text">Save Text</string>
+    <string name="enter_note_here">Enter Note Here</string>
+    <string name="enter_message_here">Enter Message Here</string>
+    <string name="enter_name_here">Enter Name Here</string>
+</resources>
